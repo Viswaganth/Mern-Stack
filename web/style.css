@@ -1,2 +1,13 @@
+.hello{
+    color: orange
+}
 
-
+.heading2{
+    color: green;
+}
+#heading3{
+    color: pink;
+}
+*h1{
+    color: brown;
+}
