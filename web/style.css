@@ -1,13 +1,23 @@
-.hello{
-    color: orange
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI',Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.heading2{
-    color: green;
+.navbar{
+    width: 100vw;
+    height: 8rem;
+    display: flex;
+    box-shadow:
+  2.9px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+  7px 6.7px 5.3px rgba(231, 5, 5, 0.578),
+  13.1px 12.5px 10px rgba(0, 0, 0, 0.035),
+  23.5px 22.3px 17.9px rgba(118, 26, 26, 0.46),
+  43.9px 41.8px 33.4px rgba(128, 25, 25, 0.185),
+  105px 100px 80px rgba(67, 781 , 0, 0.07);
 }
-#heading3{
-    color: pink;
-}
-*h1{
-    color: brown;
+
+.logo-container{
+    width: 50%;
+    padding: 1rem;
 }
