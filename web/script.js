@@ -19,3 +19,11 @@ let jsonobj={
 }
 console.log(jsobj)
 console.log(jsonobj)
+
+function register(event) {
+    event.preventDefault
+    let name='';
+    let phone=0;
+    let email='';
+    let password='';
+}
